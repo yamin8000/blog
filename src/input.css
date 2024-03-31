@@ -9,7 +9,7 @@
 @layer components {
     .nav-item {
         @apply p-2 rounded text-orange-500 underline
-        hover:text-orange-300 hover:bg-trueGray-700
+        hover:text-orange-300 hover:bg-neutral-700
         font-bold text-3xl
     }
 }
